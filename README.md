@@ -25,7 +25,7 @@
 </div>
 
 - Based in South Africa 🇿🇦
-- Currently employed @ Bidvest Electrical ⚡️ as a Junior Software Developer. 🧑🏻‍💻
+- Currently employed @ Bidvest Electrical ⚡️ as a Junior Fullstack Web Developer. 🧑🏻‍💻
 - View my portfolio at <a href="https://ashford.netlify.app">ashford.netlify.app</a> 🖥
 - Contact me at <a href="https://mailto:ashfordlee19@gmail.com">ashfordlee19@gmail.com</a> ✉️ 
 
