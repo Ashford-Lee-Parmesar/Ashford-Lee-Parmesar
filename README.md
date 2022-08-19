@@ -4,7 +4,7 @@
   <h1>Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></br>My name is Ashford Lee Parmesar.</h1>
   
   
-  <h3>An aspiring fullstack JavaScript Web Developer</br>Musician 🎸</br>Video Game Enthusiast 🎮</h3>
+  <h3>Fullstack JavaScript Web Developer</br>Musician 🎸</br>Video Game Enthusiast 🎮</h3>
   
   <h4>Connect with me:</h4>
   
@@ -25,6 +25,7 @@
 </div>
 
 - Based in South Africa 🇿🇦
+- Currently employed @ Bidvest Electrical ⚡️ as a Junior Software Developer. 🧑🏻‍💻
 - View my portfolio at <a href="https://ashford.netlify.app">ashford.netlify.app</a> 🖥
 - Contact me at <a href="https://mailto:ashfordlee19@gmail.com">ashfordlee19@gmail.com</a> ✉️ 
 
